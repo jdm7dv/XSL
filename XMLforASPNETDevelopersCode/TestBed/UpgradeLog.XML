@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestBed">
+</Property><Property Name="Solution File" Value="C:\inetpub\wwwroot\Jonathan Moore v1.6\My Windows SDK\Unorganized\XML\XMLforASPNETDevelopersCode\TestBed\TestBed.sln">
+</Property><Property Name="Date" Value="Sunday, December 23, 2007">
+</Property><Property Name="Time" Value="16:41 PM">
+</Property></Properties><Event ErrorLevel="2" Project="TestBed" Source="http://localhost/TestBed/TestBed.csproj" Description="Unable to open the Web 'http://localhost/TestBed/TestBed.csproj'.  The Web 'http://localhost/TestBed/TestBed.csproj' does not exist.">
+</Event><Event ErrorLevel="0" Project="" Source="TestBed.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestBed.sln" Description="Converted">
+</Event></UpgradeLog>
